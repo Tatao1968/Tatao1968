@@ -1,7 +1,14 @@
 - 👋 Hola, Mi nombre es Héctor Real, estudiante de murciaeduca.es 
 - 👀 Estoy interesado en aprender MarkDown
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Actualmente estoy aprendiendo
+  * Firefox
+  * Visual estudio Code
+- 💞️ Estoy buscando colaborara en 
+	1. VSCD 1
+		- Sistema softare
+	2. Ingenieria 
+		- del Software
+	
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
