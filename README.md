@@ -3,15 +3,19 @@
 - 🌱 Actualmente estoy aprendiendo
   * Firefox
   * Visual estudio Code
+
 - 💞️ Estoy buscando colaborara en 
-	1. VSCD 1
+	1. VSCD
 		- Sistema softare
 	2. Ingenieria 
 		- del Software
+	3. Reparar
 	
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📫 Cómo contactarme...
+
+😄 Pronombres: ...
+
+⚡ Dato curioso: ...
 
 <!---
 Tatao1968/Tatao1968 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
