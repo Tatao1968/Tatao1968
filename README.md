@@ -1,5 +1,5 @@
 - 👋 Hola, Mi nombre es Héctor Real, estudiante de murciaeduca.es 
-![Hector](/Tatao1968/Tatao1968/img/hector.jpg)
+![Hector](<img src="Tatao1968/img/hector.jpg" >)
 - 👀 Estoy interesado en aprender MarkDown
 - 🌱 Actualmente estoy aprendiendo
   * Firefox
