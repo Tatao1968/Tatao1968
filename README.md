@@ -4,6 +4,7 @@
 - 🌱 Actualmente estoy aprendiendo
   * Firefox
   * Visual estudio Code
+  * HTML
 
 - 💞️ Estoy buscando colaborara en 
 	1. VSCD
