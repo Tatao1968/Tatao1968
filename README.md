@@ -5,7 +5,8 @@
   * Firefox
   * Visual estudio Code
   * HTML
-  *Javvvvvavavavav
+  * Javvvvvavavavav
+  * Python
 
 - 💞️ Estoy buscando colaborara en 
 	1. VSCD
